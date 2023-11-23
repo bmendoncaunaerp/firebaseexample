@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36778161666",
+    "project_id": "aula-firebase-aae62",
+    "storage_bucket": "aula-firebase-aae62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36778161666:android:37a57616c7336a569e591b",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4EQuqy-hliO33jO6TijQE7GLn8CsFzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
